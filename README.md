@@ -38,7 +38,7 @@ python main.py
 Example commands:
 - `balance` - Check current balance
 - `deposit 500 from salary` - Make a deposit
-- `transfer 200 to Alice` - Transfer money
+- `transfer 200 to Nabeel` - Transfer money
 - `summary` - View monthly summary
 - `transactions` - View recent transactions
 - `help` - List all available commands
