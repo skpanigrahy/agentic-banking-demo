@@ -1,0 +1,19 @@
+date,description,amount,category
+2025-08-01 00:00:00,Salary,50000.0,Income
+2025-08-02 00:00:00,Coffee,-200.0,Food
+2025-08-03 00:00:00,Groceries,-1500.0,Food
+2025-08-05 00:00:00,Online Shopping,-3000.0,Shopping
+2025-08-10 00:00:00,Electricity Bill,-1200.0,Bills
+2025-08-12 00:00:00,Transfer to Bob,-5000.0,Transfer
+2025-08-16 00:00:00,Transfer to suchitra rs,-1000.0,Transfer
+2025-08-16 00:00:00,Transfer to nabeel,-1000.0,Transfer
+2025-08-16 00:00:00,Bill payment to a bill of 1000 to electricity,-1000.0,Bills
+2025-08-16 00:00:00,Transfer to sanvi,-100.0,Transfer
+2025-08-16 00:00:00,Transfer to nabeel,-100.0,Transfer
+2025-08-16 00:00:00,Transfer to sanvi,-100.0,Transfer
+2025-08-16 17:16:59,Transfer to nabeel,-100.0,Transfer
+2025-08-16 17:33:38,Transfer to sanvi,-100.0,Transfer
+2025-08-16 17:34:33,Transfer to the account,-2000.0,Transfer
+2025-08-16 17:51:47,Deposit from unspecified source,2000.0,Income
+2025-08-16 17:51:58,Deposit from unspecified source,4000.0,Income
+2025-08-16 17:54:50,Bill payment to electricity,-200.0,Bills

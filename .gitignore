@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Data files (optionally ignore if you want to include sample data)
+# data/*.csv
