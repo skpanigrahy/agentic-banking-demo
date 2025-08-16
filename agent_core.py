@@ -66,7 +66,7 @@ class BankingAgent:
         self.capabilities = {
             "balance": "Check your current account balance",
             "transactions": "Show your last N transactions (e.g., 'show last 3 transactions')",
-            "transfer": "Transfer money to someone (e.g., 'transfer 500 to Alice')",
+            "transfer": "Transfer money to someone (e.g., 'transfer 500 to Nabeel')",
             "deposit": "Add money to your account (e.g., 'deposit 500 from salary')",
             "pay_bill": "Pay a bill (e.g., 'pay 1200 to electricity')",
             "summary": "Show monthly summary (e.g., 'summary for July')",
